@@ -1,0 +1,193 @@
+
+
+.hi{ 
+    font-family:Montserrat, sans-serif;
+     padding-top: 20%;
+     padding-left: 20px;
+     font-size: 420%;
+     margin-bottom: 250px;
+}
+
+.sen
+{
+    color: aqua;
+   
+}
+
+.km
+{
+    font-size: 35px;
+    border-radius:0px ;
+    border: solid aqua;
+
+  
+}
+.km:hover{
+
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.6);
+    background-color: aqua; color: white;
+     
+}
+.am{ font-size: 40px;
+color: white;
+padding-top: 10px;
+}
+.aboutme{ background-color: aqua;
+     font-family: Montserrat, sans-serif;
+     font-size: 100%;
+     text-align:center;
+     clip-path: polygon(0 0, 100% 0, 100% 80%, 0 100%);
+     color: white;
+}
+.img {
+    align-items: center;
+   padding-bottom: 100px;
+   padding-left: 50px;
+   box-sizing: border-box;
+
+  
+}
+.ds{
+    padding-top: 50px;
+    padding-left: 100px;
+    text-align: justify;
+    
+}
+.side{
+    display: flex;
+    gap:10px;
+    text-align: center;
+}
+
+.re
+{
+    font-size: 35px;
+    border-radius:0px ;
+    border: solid aqua;
+    margin-left: 100px;
+
+}
+.re:hover{
+
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.6);
+    background-color: aqua; color: white;}
+
+.pro{ 
+font-family: Montserrat, sans-serif;
+text-align: center;
+font-size: 20px;
+padding-bottom: 10px;
+padding-top: 150px;}
+
+
+
+.pj{
+    padding-top: 70px;
+     display: flex;
+     text-align: justify;
+     gap: 300px;
+     
+    
+}
+
+.jd
+{
+font-family: Montserrat, sans-serif;
+padding-left: 50px;
+padding-top: 10px;
+
+}
+.ws{
+    font-family: Montserrat, sans-serif;
+   padding-right: 120px;
+}
+.sc
+{
+    font-size: 30px;
+    border-radius:0px ;
+    border: solid aqua;
+
+  
+}
+.sc:hover{
+
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.6);
+    background-color: aqua; color: white;
+     
+}
+
+.pj2{ padding-top: 150px;
+     display: flex;
+     text-align: justify;
+     gap: 300px;
+     
+    
+}
+
+.jd2
+{
+font-family: Montserrat, sans-serif;
+padding-left: 50px;
+padding-top: 10px;
+
+}
+.ws2{
+    font-family: Montserrat, sans-serif;
+   padding-right: 120px;
+}
+.sc2
+{
+    font-size: 30px;
+    border-radius:0px ;
+    border: solid aqua;
+   
+
+  
+}
+.sc2:hover{
+
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.6);
+    background-color: aqua; color: white;
+    
+     
+}
+
+.con{
+    
+    background-color: aqua;
+    text-align: center;
+    clip-path: polygon(0 17vh,100% 0,100% 100%,0 100%);
+    
+    font-size: 30px;}
+
+.ca{
+     font-size: 30px;
+    border-radius:0px ;
+    border: solid aqua;
+
+  
+}
+.ca:hover{
+
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.6);
+    background-color: aqua; color: white;
+}
+
+.link{
+
+    
+    background-color: rgb(59, 56, 56);
+
+    text-align: center;
+    clip-path: polygon(0 0vh,100% 0,100% 100%,0 100%);
+    font-family: Montserrat, sans-serif;
+    font-size: 20px;
+}
+.git{
+    padding-left: 30px;
+}
+.nau{
+
+    padding-left: 30px;
+
+}
