@@ -1,4 +1,5 @@
 const er = document.getElementById("er")
 er.addEventListener("click", function(){
-window.open ("senthilvenkatesh.pdf","_blank");
+window.open ("SenthilVenkatesh.pdf","_blank");
+
 })
