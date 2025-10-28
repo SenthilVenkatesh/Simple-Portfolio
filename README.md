@@ -6,8 +6,7 @@
 I’m a Data Analyst passionate about Machine Learning, Web Automation, and Visualization.
 
 ### 🚀 Projects
-- **[House Price Prediction | Machine Learning](https://github.com/your-username/house-price-prediction)**
-- **[Portfolio Website | HTML, CSS, JavaScript](https://your-username.github.io/)**
+- **[Portfolio Website | HTML, CSS, JavaScript](https://senthilvenkatesh.github.io/Simple-Portfolio/)**
 
 ### 🌐 Portfolio Website
-🔗 [Visit My Portfolio](https://your-username.github.io/)
+🔗 [Simple Portfo](https://senthilvenkatesh.github.io/Simple-Portfolio/)
