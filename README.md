@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Venkatesh Senthil
 
 ![Simple Portfolio](simpleportfoliopic.png)
-)
+
 
 ### 💼 About Me
 I’m a Data Analyst passionate about Machine Learning, Web Automation, and Visualization.
